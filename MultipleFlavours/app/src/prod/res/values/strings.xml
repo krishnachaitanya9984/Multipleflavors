@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultipleFlavours-Prod</string>
+    <string name="welcome_type">Hello Production</string>
+</resources>
